@@ -71,4 +71,5 @@
 <img src="https://raw.githubusercontent.com/khalidswe/khalidswe/output/snake.svg" alt="Snake animation" />
 
 ###
+![snake gif](https://github.com/khalidswe/khalidswe/blob/output/github-contribution-grid-snake.gif)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
